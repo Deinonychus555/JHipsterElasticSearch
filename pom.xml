@@ -549,7 +549,7 @@
                     <url>jdbc:mysql://localhost:3306/jhipsterelasticsearch</url>
                     <defaultSchemaName>jhipsterelasticsearch</defaultSchemaName>
                     <username>root</username>
-                    <password></password>
+                    <password>root</password>
                     <referenceUrl>hibernate:spring:com.mycompany.myapp.domain?dialect=org.hibernate.dialect.MySQLInnoDBDialect</referenceUrl>
                     <verbose>true</verbose>
                     <logging>debug</logging>
